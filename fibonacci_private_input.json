@@ -1,6 +1,6 @@
 {
-  "trace_path": "/Users/lana/github/cairo-vm/trace_fibonacci",
-  "memory_path": "/Users/lana/github/cairo-vm/memory_fibonacci",
+  "trace_path": "/home/ec2-user/proving/trace_fibonacci",
+  "memory_path": "/home/ec2-user/proving/memory_fibonacci",
   "pedersen": [],
   "range_check": [],
   "ecdsa": []
