@@ -3,9 +3,5 @@
   "memory_path": "/Users/lana/github/cairo-vm/memory_fibonacci",
   "pedersen": [],
   "range_check": [],
-  "ecdsa": [],
-  "bitwise": [],
-  "ec_op": [],
-  "keccak": [],
-  "poseidon": []
+  "ecdsa": []
 }
