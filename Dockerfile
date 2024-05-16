@@ -13,4 +13,4 @@ WORKDIR /prover
 COPY . .
 
 # Set the default command to run when the container starts
-CMD ["/prover/cpu_air_prover"]
+ENTRYPOINT ["/prover/entrypoint.sh"]
